@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-h_&e59lt&l%bzu!0rks9ho9j$jgklh4=c%2&-^dm6a2n_g_g$$
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['mynewdomainname.pagekite.me', '127.0.0.1']
+ALLOWED_HOSTS = ['b066baeb00ffb9.lhrtunnel.link', '127.0.0.1']
 
 
 # Application definition
